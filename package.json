@@ -1,14 +1,14 @@
 {
-  "name": "imagemin-mozjpeg",
+  "name": "@telking/imagemin-mozjpeg",
   "version": "9.0.0",
   "description": "Imagemin plugin for mozjpeg",
   "license": "MIT",
   "repository": "imagemin/imagemin-mozjpeg",
   "author": {
-    "name": "Kevin Mårtensson",
-    "email": "kevinmartensson@gmail.com",
-    "url": "github.com/kevva"
-  },
+		"name": "幸焕光",
+		"email": "xhg1945454120@gmail.com",
+		"url": "github.com/GSZS"
+	},
   "maintainers": [
     {
       "name": "Sindre Sorhus",
